@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "name": "Sona Masuri Rice",
+    "category": "Grains",
+    "price": 60,
+    "unit": "kg",
+    "farmer": "Ravi Kumar",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNvNa3Pjv9-d1umRbG2keLC5pZ1XtQpOW3QtknbX0HUuNM3rKx2UQ-GE3KkI5bVIpgDypKzXahmFXJgX7upJrSH-A-VmdQeAmerKHSFs29t0rEf8-ReBFw07k"
+  },
+  {
+    "id": 2,
+    "name": "Basmati Rice",
+    "category": "Grains",
+    "price": 80,
+    "unit": "kg",
+    "farmer": "Priya Sharma",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaWPaOoDGQksdDO8g1VooRUxqxAOnYiOavHAajmIuBIa2hLFkPd3n6O4ZzpufrE45VLMmoi7dVZ8kLOhL9sgWgdPKW379drlzdIPGBnKNuDHMgRu8B24fi"
+  },
+  {
+    "id": 3,
+    "name": "Brown Rice",
+    "category": "Grains",
+    "price": 70,
+    "unit": "kg",
+    "farmer": "Arjun Mehta",
+    "image": "https://www.shutterstock.com/image-photo/brown-rice-green-background-copy-600nw-2657259929.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Wheat Flour",
+    "category": "Grains",
+    "price": 45,
+    "unit": "kg",
+    "farmer": "Kavita Sharma",
+    "image": "https://www.shutterstock.com/image-photo/wheat-flour-atta-600nw-1110730115.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Maize (Corn)",
+    "category": "Grains",
+    "price": 50,
+    "unit": "kg",
+    "farmer": "Rahul Verma",
+    "image": "https://media.istockphoto.com/id/507457626/photo/corn-groats-and-seeds-corncobs-on-wooden-rustic-table.jpg?s=612x612&w=0&k=20&c=JeoMvxyaDJSfABZ0G3YFEm7jX62O3v06cfVICzy2zJ8="
+  },
+  {
+    "id": 6,
+    "name": "Barley",
+    "category": "Grains",
+    "price": 55,
+    "unit": "kg",
+    "farmer": "Sunita Devi",
+    "image": "https://t4.ftcdn.net/jpg/02/25/15/13/360_F_225151394_L8qk9M8yOMM0oGXDzq9awN3WaHkJEkfP.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Millet (Jowar)",
+    "category": "Grains",
+    "price": 40,
+    "unit": "kg",
+    "farmer": "Manoj Patel",
+    "image":"https://vibrantliving.in/cdn/shop/files/FoxtailMillet.png?v=1731059360&width=2048"
+  },
+  {
+    "id": 8,
+    "name": "Finger Millet (Ragi)",
+    "category": "Grains",
+    "price": 55,
+    "unit": "kg",
+    "farmer": "Pooja Reddy",
+    "image": "https://media.istockphoto.com/id/1317287403/photo/eleusine-coracana-grain-or-finger-millet-also-known-as-ragi-in-india-kodo-in-nepal.jpg?s=612x612&w=0&k=20&c=-uq7ymUgkwTkdMDgpgDTam9yFVA4iQB1RFfLE-K-YTY="
+  },
+  {
+    "id": 9,
+    "name": "Oats",
+    "category": "Grains",
+    "price": 65,
+    "unit": "kg",
+    "farmer": "Deepak Joshi",
+    "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/03/oats-oatmeal-732x549-thumbnail.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Quinoa",
+    "category": "Grains",
+    "price": 90,
+    "unit": "kg",
+    "farmer": "Nisha Singh",
+    "image": "https://www.poshtik.in/cdn/shop/products/Quinoa.jpg?v=1580129398"
+  },
+  {
+    "id": 11,
+    "name": "Couscous",
+    "category": "Grains",
+    "price": 85,
+    "unit": "kg",
+    "farmer": "Sandeep Kumar",
+    "image": "https://thumbs.dreamstime.com/b/dry-raw-organic-couscous-bowl-to-cook-390599370.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Broken Wheat (Dalia)",
+    "category": "Grains",
+    "price": 50,
+    "unit": "kg",
+    "farmer": "Rohit Chauhan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11bcXg-6xOKSyNGf7kDU7gMlmpv_XupDlNA&s"
+  },
+  {
+    "id": 13,
+    "name": "Puffed Rice",
+    "category": "Grains",
+    "price": 35,
+    "unit": "kg",
+    "farmer": "Anita Devi",
+    "image": "https://m.media-amazon.com/images/I/813BC+HBzBL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Flattened Rice (Poha)",
+    "category": "Grains",
+    "price": 40,
+    "unit": "kg",
+    "farmer": "Mohit Singh",
+    "image": "https://www.jiomart.com/images/product/original/rvlywhdotl/aplenty-poha-flattened-rice-special-white-rice-flakes-900g-pack-kanda-poha-beaten-rice-chiwda-product-images-orvlywhdotl-p605539268-0-202310110616.jpg?im=Resize=(1000,1000)"
+  },
+  {
+    "id": 15,
+    "name": "Semolina (Sooji)",
+    "category": "Grains",
+    "price": 48,
+    "unit": "kg",
+    "farmer": "Geeta Nair",
+    "image": "https://www.shutterstock.com/image-photo/semolina-wooden-bowl-isolated-on-260nw-2652119169.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Tomatoes",
+    "category": "Vegetables",
+    "price": 40,
+    "unit": "kg",
+    "farmer": "Sita Devi",
+    "image": "https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?cs=srgb&dl=pexels-julia-nagy-568948-1327838.jpg&fm=jpg"
+  },
+  {
+    "id": 17,
+    "name": "Green Chillies",
+    "category": "Vegetables",
+    "price": 30,
+    "unit": "kg",
+    "farmer": "Meera Singh",
+    "image": "https://fruitboxco.com/cdn/shop/products/VG-CL-20_800x.jpg?v=1588920882"
+  },
+  {
+    "id": 18,
+    "name": "Potatoes",
+    "category": "Vegetables",
+    "price": 25,
+    "unit": "kg",
+    "farmer": "Anand Verma",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG90YXRvfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000"
+  },
+  {
+    "id": 19,
+    "name": "Onions",
+    "category": "Vegetables",
+    "price": 30,
+    "unit": "kg",
+    "farmer": "Kiran Yadav",
+    "image": "https://media.istockphoto.com/id/155392853/photo/diced-red-onion.jpg?s=612x612&w=0&k=20&c=nxLRDIHFYD6LaGDugwZyXJh5ZOSFvjDe2Tf4HJunIXs="
+  },
+  {
+    "id": 20,
+    "name": "Spinach",
+    "category": "Vegetables",
+    "price": 35,
+    "unit": "bunch",
+    "farmer": "Sunil Reddy",
+    "image": "https://www.orgpick.com/cdn/shop/products/spnach_large_01cac1a1-246f-433c-b02b-e2c7986fe95c.jpg?v=1569550040"
+  },
+  {
+    "id": 21,
+    "name": "Cabbage",
+    "category": "Vegetables",
+    "price": 28,
+    "unit": "kg",
+    "farmer": "Ramesh Naidu",
+    "image": "https://assets.clevelandclinic.org/transform/LargeFeatureImage/871f96ae-a852-4801-8675-683191ce372d/Benefits-Of-Cabbage-589153824-770x533-1_jpg"
+  },
+  {
+    "id": 22,
+    "name": "Cauliflower",
+    "category": "Vegetables",
+    "price": 35,
+    "unit": "kg",
+    "farmer": "Deepa Sharma",
+    "image": "https://m.media-amazon.com/images/I/91EdPVzD99L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Carrots",
+    "category": "Vegetables",
+    "price": 40,
+    "unit": "kg",
+    "farmer": "Vijay Patel",
+    "image": "https://www.knowyourproduce.com/wp-content/uploads/2022/08/how-to-grow-carrots-2.png"
+  },
+  {
+    "id": 24,
+    "name": "Beetroot",
+    "category": "Vegetables",
+    "price": 42,
+    "unit": "kg",
+    "farmer": "Kavya Jain",
+    "image": "https://media.istockphoto.com/id/493446908/photo/fresh-sliced-beetroot-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=z94X8FkGe5Mm6lN5HcZsGaD4nm_vMlkdlBzhut1spes="
+  },
+  {
+    "id": 25,
+    "name": "Peas",
+    "category": "Vegetables",
+    "price": 50,
+    "unit": "kg",
+    "farmer": "Pankaj Mehta",
+    "image": "https://www.allthatgrows.in/cdn/shop/products/Peas.jpg?v=1598082087"
+  },
+  {
+    "id": 26,
+    "name": "Cucumber",
+    "category": "Vegetables",
+    "price": 35,
+    "unit": "kg",
+    "farmer": "Anita Kumari",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRK3sW92wupIAJwcfkvIHEI_1skNy14pKhZQ&s"
+  },
+  {
+    "id": 27,
+    "name": "Pumpkin",
+    "category": "Vegetables",
+    "price": 30,
+    "unit": "kg",
+    "farmer": "Ravi Das",
+    "image": "https://www.bloomslandcare.com/wp-content/uploads/2016/03/Growing-Perfect-Pumpkins.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Brinjal (Eggplant)",
+    "category": "Vegetables",
+    "price": 38,
+    "unit": "kg",
+    "farmer": "Neha Rani",
+    "image": "https://m.media-amazon.com/images/I/51XBbkVrvWL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Bitter Gourd",
+    "category": "Vegetables",
+    "price": 32,
+    "unit": "kg",
+    "farmer": "Dinesh Kumar",
+    "image": "https://drvaidji.com/cdn/shop/articles/Bitter_Melon_1024x1024_37ab9838-93f6-4c88-83b4-508443174b78.jpg?v=1699514225"
+  },
+  {
+    "id": 30,
+    "name": "Drumstick",
+    "category": "Vegetables",
+    "price": 45,
+    "unit": "bunch",
+    "farmer": "Anil Gupta",
+    "image": "https://fpsstore.in/cdn/shop/products/DrumStick.jpg?v=1646299725"
+  },
+  {
+    "id": 31,
+    "name": "Bananas (per dozen)",
+    "category": "Fruits",
+    "price": 50,
+    "unit": "dozen",
+    "farmer": "Arjun Patel",
+    "image": "https://www.jiomart.com/images/product/original/590000617/banana-yellaki-1-kg-product-images-o590000617-p590000617-0-202409171906.jpg?im=Resize=(420,420)"
+  },
+  {
+    "id": 32,
+    "name": "Fresh Mangoes",
+    "category": "Fruits",
+    "price": 120,
+    "unit": "kg",
+    "farmer": "Ramesh Yadav",
+    "image": "https://www.metropolisindia.com/upgrade/blog/upload/25/05/benefits-of-mangoes1747828357.webp"
+  },
+  {
+    "id": 33,
+    "name": "Apples",
+    "category": "Fruits",
+    "price": 140,
+    "unit": "kg",
+    "farmer": "Suresh Joshi",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/apples-at-farmers-market-royalty-free-image-1627321463.jpg?crop=1xw:0.7085xh;center,top&resize=1200:*"
+  },
+  {
+    "id": 34,
+    "name": "Grapes",
+    "category": "Fruits",
+    "price": 100,
+    "unit": "kg",
+    "farmer": "Seema Reddy",
+    "image": "https://media.istockphoto.com/id/489520104/photo/green-grape-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=9kg_3pMeBKYnHHjx2JECF61QwzxTikLaQ2w-6A5tOO0="
+  },
+  {
+    "id": 35,
+    "name": "Oranges",
+    "category": "Fruits",
+    "price": 90,
+    "unit": "kg",
+    "farmer": "Amit Deshmukh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Pineapple",
+    "category": "Fruits",
+    "price": 80,
+    "unit": "kg",
+    "farmer": "Rekha Bansal",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7SxOWYbcQgZG35EOPOKfLRL_GoY_F-QwFA&s"
+  },
+  {
+    "id": 37,
+    "name": "Papaya",
+    "category": "Fruits",
+    "price": 60,
+    "unit": "kg",
+    "farmer": "Naveen Kumar",
+    "image": "https://media.istockphoto.com/id/864053288/photo/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=hJ5DpNTt0oKjZMIHYV6gUHTntB2zIs_78dPKiuDUXgE="
+  },
+  {
+    "id": 38,
+    "name": "Guava",
+    "category": "Fruits",
+    "price": 70,
+    "unit": "kg",
+    "farmer": "Rajeev Singh",
+    "image": "https://media.istockphoto.com/id/1224636159/photo/closeup-of-a-red-guava-cut-in-half-in-the-background-several-guavas-and-green-leaf.jpg?s=612x612&w=0&k=20&c=KJ9YilkRRuFh0bnw64Ol0IZDfoQF7UIxyC6dRVIjaoA="
+  },
+  {
+    "id": 39,
+    "name": "Pomegranate",
+    "category": "Fruits",
+    "price": 150,
+    "unit": "kg",
+    "farmer": "Reena Sharma",
+    "image": "https://img.freepik.com/free-vector/pomegranate-realistic-concept-with-organic-food-symbols-vector-illustration_1284-75800.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 40,
+    "name": "Watermelon",
+    "category": "Fruits",
+    "price": 40,
+  "unit": "kg",
+    "farmer": "Akhil Kumar",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0qedAEEvk9S0-G_e3ur6BXTD_5k7UJ4Cog&s"
+  },
+  {
+    "id": 41,
+    "name": "Strawberries",
+    "category": "Fruits",
+    "price": 200,
+    "unit": "kg",
+    "farmer": "Poonam Thakur",
+    "image": "https://www.shutterstock.com/image-photo/ripe-fresh-strawberries-green-leaves-260nw-2610323315.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Chikoo (Sapota)",
+    "category": "Fruits",
+    "price": 90,
+  "unit": "kg",
+  "farmer": "Ajay Kumar",
+  "image": "https://static.wixstatic.com/media/1536ae_98951bff631244c58fd8971e2857a88e~mv2.jpg/v1/fill/w_480,h_476,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1536ae_98951bff631244c58fd8971e2857a88e~mv2.jpg"
+  },
+  {
+    "id": 43,
+  "name": "Lychee",
+  "category": "Fruits",
+  "price": 180,
+  "unit": "kg",
+  "farmer": "Nirmala Devi",
+  "image": "https://cdn.britannica.com/18/176518-050-5AB1E61D/lychee-fruits-Southeast-Asia.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Pear",
+  "category": "Fruits",
+  "price": 130,
+  "unit": "kg",
+  "farmer": "Sonal Singh",
+  "image": "https://www.stylecraze.com/wp-content/uploads/2013/07/Benefits-Of-Pears_1200px.jpg.webp"
+  },
+  {
+    "id": 45,
+  "name": "Custard Apple (Sitaphal)",
+  "category": "Fruits",
+  "price": 100,
+  "unit": "kg",
+  "farmer": "Devendra Yadav",
+  "image": "https://cocohillforest.com/wp-content/uploads/2022/11/custard-apple.jpg"
+  }
+]
