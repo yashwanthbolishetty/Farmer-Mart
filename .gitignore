@@ -1,4 +1,5 @@
-# Node modules	node_modules/
+# Node modules
+node_modules/
 
 # Logs
 npm-debug.log*
@@ -7,6 +8,7 @@ yarn-error.log*
 
 # Dependency directories
 .pnpm-debug.log*
+
 
 # Optional npm cache directory
 .npm
